@@ -7,6 +7,7 @@
 # ABOUT ME
 I'm a beginner in FrontEnd, with knowledge in JavaScript and Web development.
 I have experience in:
+
 •JavaScript
 
 •HTML
