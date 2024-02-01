@@ -1,33 +1,28 @@
 # Hi, my name is Carol! 👋
-  
-  ##
+    ##
 
   🖥️ Aprendiz de Programação | Web Developer | Frontend | 
   👾 Gamer a mais de 20 anos.
-
-  ##
-
-##
-
+  #
 I'm a beginner in FrontEnd, with knowledge in JavaScript and Web development.
 I have experience in:
 #
--JavaScript
-#
--HTML
-#
--CSS
-#
--Power Bi
-#
--Git
+•JavaScript
+
+•HTML
+
+•CSS
+
+•Power Bi
+
+•Git
 
 I love challenges, I love learning and I want to grow professionally every day.
-#
+
 Enjoy!🥰
 ##
-#
-#<
+
+<
    div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
