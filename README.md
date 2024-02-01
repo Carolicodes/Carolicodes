@@ -1,9 +1,4 @@
 # Hi, my name is Carol! 👋
-
-  <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ##
 
@@ -11,21 +6,33 @@
   👾 Gamer a mais de 20 anos.
 
   ##
-  <img align="left" alt="gifme" src="https://i.picasion.com/pic92/078b08ff2b302802777627bcaa932d20.gif" width="70" height="70" border="0" alt="https://picasion.com/" /></a>
+
 ##
 
 I'm a beginner in FrontEnd, with knowledge in JavaScript and Web development.
 I have experience in:
-
+#
 -JavaScript
+#
 -HTML
+#
 -CSS
+#
 -Power Bi
+#
 -Git
 
 I love challenges, I love learning and I want to grow professionally every day.
+#
 Enjoy!🥰
 ##
+#
+#<
+   div style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 <div>
   <a href="https://instagram.com/caroli_fps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/carolindafps_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
