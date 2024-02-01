@@ -1,12 +1,13 @@
 # Hi, my name is Carol! 👋
-    ##
 
   🖥️ Aprendiz de Programação | Web Developer | Frontend | 
   👾 Gamer a mais de 20 anos.
   #
+
+# ABOUT ME
 I'm a beginner in FrontEnd, with knowledge in JavaScript and Web development.
 I have experience in:
-#
+
 •JavaScript
 
 •HTML
