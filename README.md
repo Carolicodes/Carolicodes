@@ -1,7 +1,7 @@
 # Hi, my name is Carol! 👋
 
   🖥️ Aprendiz de Programação | Web Developer | Frontend | 
-  👾 Gamer a mais de 20 anos.
+  👾 Gamer.
   #
 
 # ABOUT ME
